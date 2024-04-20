@@ -473,6 +473,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     -webkit-transition:border-color .3s ease-out;
     transition:border-color .3s ease-out;
     border-radius:2px;
+    color: white;
 }
 
 #contact-form .form-group{
@@ -536,6 +537,11 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     font-size: 21px;
     line-height: 21px;
     margin-right: 5px;
+}
+
+#contact-name{
+  color: white;
+
 }
 
 /*----------------------
