@@ -15,7 +15,7 @@ typewriter.typeString(' Performance Engineer')
     .pauseFor(2000)
     .deleteAll()
     // .typeString('Java Developer')
-    // .pauseFor(2000)
+    .pauseFor(2000)
     .start();
 
 anime.timeline({loop: false})
