@@ -159,10 +159,10 @@ nav {
   }
 }
 
-.heartbeat {
+/* .heartbeat {
   -webkit-animation: heartbeat 1.5s ease-in-out infinite both;
   animation: heartbeat 1.5s ease-in-out infinite both;
-}
+} */
 
 @-webkit-keyframes heartbeat {
   from {
